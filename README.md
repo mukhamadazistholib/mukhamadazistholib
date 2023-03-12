@@ -41,8 +41,8 @@ Junior Full Stack Engineer
 
 
 
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hilalcoskun/) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilal.coskun20@gmail.com)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](https://www.linkedin.com/in/mukhamad-az/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhamadazistholib278@gmail.com)
 
 
 ### Skills
@@ -62,8 +62,9 @@ Junior Full Stack Engineer
 
 
 ### Badges
-![image]({[BadgeURLHere](https://github.com/users/mukhamadazistholib/achievements/quickdraw)})
-![image]({[BadgeURLHere]([https://github.com/users/mukhamadazistholib/achievements/quickdraw](https://github.com/users/mukhamadazistholib/achievements/pull-shark))})
+![image]({https://github.com/users/mukhamadazistholib/achievements/pull-shark})
+![image]({https://github.com/users/mukhamadazistholib/achievements/quickdraw})
+
 
 <b>My GitHub Stats</b>
 
