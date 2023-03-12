@@ -64,6 +64,7 @@ Junior Full Stack Engineer
 ### Badges
 ![image]({https://github.com/users/mukhamadazistholib/achievements/pull-shark})
 ![image]({https://github.com/users/mukhamadazistholib/achievements/quickdraw})
+![image]({https://github.com/mukhamadazistholib?tab=achievements&achievement=quickdraw})
 
 
 <b>My GitHub Stats</b>
