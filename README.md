@@ -62,10 +62,12 @@ Junior Full Stack Engineer
 
 
 ### Badges
+![image]({[BadgeURLHere](https://github.com/users/mukhamadazistholib/achievements/quickdraw)})
+![image]({[BadgeURLHere]([https://github.com/users/mukhamadazistholib/achievements/quickdraw](https://github.com/users/mukhamadazistholib/achievements/pull-shark))})
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mukhamadazistholib"><img src="https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hilal-coskun's GitHub stats" /></a>
+<a href="http://www.github.com/mukhamadazistholib"><img src="https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mukhamadazistholib's GitHub stats" /></a>
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib)](https://github.com/mukhamadazistholib/github-readme-stats)-->
