@@ -68,8 +68,7 @@ Junior Full Stack Engineer
 
 
 <b>My GitHub Stats</b>
+![Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000)
 
-[![Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib)](https://github.com/mukhamadazistholib/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib)](https://github.com/mukhamadazistholib/github-readme-stats)
