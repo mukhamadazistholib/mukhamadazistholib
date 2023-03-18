@@ -1,35 +1,3 @@
-<!--### Hi there 👋-->
-
-<!-- 🌱 I’m currently learning Javascript-->
-<!--
-
-
-*mukhamadazistholib/mukhamadazistholib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-![Github stats ](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&theme=radical)
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Angular" width="26px" src="https://github.com/angular.png?s=20" style="padding-right:10px;" />]
--->
-
 Hi 👋 My name is Mukhamad Azis Tholib
 =============================
 
@@ -39,11 +7,8 @@ Junior Full Stack Engineer
 * 🧠  I'm learning Angular
 * 🚀  I'm currently working on .NET Core
 
-
-
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](https://www.linkedin.com/in/mukhamad-az/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhamadazistholib278@gmail.com)
-
 
 ### Skills
 
@@ -57,42 +22,32 @@ Junior Full Stack Engineer
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+### Github stats
+<!-- ![Github stats ](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&theme=radical) -->
+![Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000)
 
-### Socials
+<!-- ### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Angular" width="26px" src="https://github.com/angular.png?s=20" style="padding-right:10px;" />] -->
 
 
 ### Badges
 <!--START_SECTION:badges-->
-[![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](http://www.credly.com/badges/373897a6-2e76-4626-b3f7-a9a191c41774 "Introduction to Cybersecurity Tools & Cyber Attacks")
-[![Cybersecurity Fundamentals](https://images.credly.com/size/100x100/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/dcf466df-bca3-4a56-91f0-823e30c05dbd "Cybersecurity Fundamentals")
-[![Professional Certification: Certified Technical Specialist, Application Development](https://images.credly.com/size/100x100/images/d087a332-8b99-4bfd-9020-06a41e010158/badge-opencts-certified.png)](http://www.credly.com/badges/944b1c39-9352-48c2-bec7-3340b4c2973c "Professional Certification: Certified Technical Specialist, Application Development")
-[![IBM DevSecOps Explorer - Security & Automation for DevOps](https://images.credly.com/size/100x100/images/673f4bed-428d-42cf-b523-3bf266b2bd8f/DevSecOps.png)](http://www.credly.com/badges/f512ba38-fd6c-4e2a-b037-6843953faf6c "IBM DevSecOps Explorer - Security & Automation for DevOps")
-[![DevSecOps Essentials](https://images.credly.com/size/100x100/images/6fcae0c0-78b7-48c5-a414-5d21665b2250/DevSecOps-Essentials.png)](http://www.credly.com/badges/c8b48139-2927-4c5e-a896-0693bb9e3443 "DevSecOps Essentials")
-[![Technical Specialist Profession Certification - Experienced](https://images.credly.com/size/100x100/images/af9bdfd9-5722-43a1-8aa9-06cdc5b5bd24/Tech-Spec-Experienced.png)](http://www.credly.com/badges/e53315f5-783c-43a2-b1a8-9a05c117b50d "Technical Specialist Profession Certification - Experienced")
-[![Hybrid Cloud Conference – Pipeline Builder](https://images.credly.com/size/100x100/images/47069d6e-35c4-46ce-9cf6-12cc92e09a48/Hybrid_Cloud_Conf_-_Pipeline_Builder.png)](http://www.credly.com/badges/2d769f9e-71a3-4394-8cd5-72247346ac76 "Hybrid Cloud Conference – Pipeline Builder")
-[![Hybrid Cloud Conference – Serverless Innovator](https://images.credly.com/size/100x100/images/a7c5d4e5-bba1-4541-9b72-138d75f6fa8b/Hybrid_Cloud_Conf_-_Serverless_Innovator.png)](http://www.credly.com/badges/05d8ba97-cf24-4e94-8846-bfab6f4cea67 "Hybrid Cloud Conference – Serverless Innovator")
-[![Hybrid Cloud Conference – Service Mesh Networker](https://images.credly.com/size/100x100/images/236f63f5-b7b6-42e8-8151-cc70f0dc8445/Hybrid_Cloud_Conf_-_Service_Mesh_Networker.png)](http://www.credly.com/badges/e81aeddd-ab7c-4e2a-a478-21971b908c0d "Hybrid Cloud Conference – Service Mesh Networker")
-[![IBM AI Professional Leader](https://images.credly.com/size/100x100/images/cb003281-a5cb-444d-8296-87ed0464cf5f/IBM-AI-Professional-Leader.png)](http://www.credly.com/badges/a0eae486-d41c-4751-a34b-d390c92af201 "IBM AI Professional Leader")
-[![Hybrid Cloud Conference – App Security and Threat Modeler](https://images.credly.com/size/100x100/images/f93b9f99-8d58-431e-82a6-a44c3ab7e668/Hybrid_Cloud_Conf_-_App_Sec_and_Threat_Modler.png)](http://www.credly.com/badges/f291e9a4-0d8d-4121-aa58-1a5914d8feba "Hybrid Cloud Conference – App Security and Threat Modeler")
-[![Digital Architecture Foundation](https://images.credly.com/size/100x100/images/a3e393a9-f8f7-4c17-aa97-25fe413e2a5e/Digital-Architecture-Foundation.png)](http://www.credly.com/badges/2d5579dd-c9fd-4782-a01e-e326bf5f6107 "Digital Architecture Foundation")
-[![Building Cloud-Native and Multicloud Applications](https://images.credly.com/size/100x100/images/60cc2ff2-e79e-441b-9d9c-4d6fedf81193/Building_Cloud-Native_and_Multicloud_Apps.png)](http://www.credly.com/badges/ffe671c0-05bb-41c3-a19f-d5542705ab21 "Building Cloud-Native and Multicloud Applications")
-[![IBM Cloud Essentials](https://images.credly.com/size/100x100/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png)](http://www.credly.com/badges/d58d1ef9-da50-49df-bd3d-78067db4c9de "IBM Cloud Essentials")
-[![Cloud Core](https://images.credly.com/size/100x100/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/9ba5d062-f0bc-4b44-96eb-3f7b400be24f "Cloud Core")
-[![Application Development Specialty - Experienced](https://images.credly.com/size/100x100/images/221ed70e-0e4b-4cd4-8ad5-9ab6d54bec39/Application-Development-Specialty-Intermediate.png)](http://www.credly.com/badges/b66c9738-e0f7-4f91-934f-01749f89cca2 "Application Development Specialty - Experienced")
-[![Open Source Strategic Committer](https://images.credly.com/size/100x100/images/b6df1cbb-2ade-464c-9924-7ffb3fec3f6c/Open-Source-Strategic-Committer.png)](http://www.credly.com/badges/7cb20fe2-28a9-499f-b054-3f151c9e2e75 "Open Source Strategic Committer")
-[![Think Like a Hacker](https://images.credly.com/size/100x100/images/fb49de32-6a4c-4850-97cc-942b638ae4c3/Think-LIke-a-Hacker.png)](http://www.credly.com/badges/b512d99e-92f7-476a-b1ba-710111fbcd30 "Think Like a Hacker")
-[![IBM AI Associate Leader](https://images.credly.com/size/100x100/images/4b2792a2-3339-4169-88ea-9ede13358440/IBM-AI-Associate-Leader.png)](http://www.credly.com/badges/f79b0efc-9136-480a-b2b7-abc5ace6e908 "IBM AI Associate Leader")
-[![Enterprise Design Thinking Co-Creator](https://images.credly.com/size/100x100/images/2700b813-82b8-4232-9b36-5dcd5cd24584/Badges_v8-08_Co-Creator.png)](http://www.credly.com/badges/73250c86-c61f-47d6-b3ec-c035516f58f0 "Enterprise Design Thinking Co-Creator")
-[![IBM Quantum Conversations](https://images.credly.com/size/100x100/images/18cfda79-63fc-4a6d-a96c-2ffc9887cd3c/IBM-Quantum-Conversations.png)](http://www.credly.com/badges/ef86ea89-cd1a-450d-a3b3-106b22936992 "IBM Quantum Conversations")
-[![Watson and Cloud Foundations](https://images.credly.com/size/100x100/images/53608ce6-a597-40fa-a42d-d243b3ecfba4/Watson_and_Cloud_Foundations.png)](http://www.credly.com/badges/63c38ffc-c9d1-43e7-955a-0b46b2c4e5ea "Watson and Cloud Foundations")
-[![IBM AI Associate for All IBMers](https://images.credly.com/size/100x100/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/47efa14c-83f8-49ab-9c56-1cdac0f749d7 "IBM AI Associate for All IBMers")
-[![Blue Core Mentor](https://images.credly.com/size/100x100/images/5fc0a9df-5ff7-4bcd-8eb8-5bf512eb3a0c/Blue-Core-Mentor.png)](http://www.credly.com/badges/efbe4d94-088b-4270-8adc-a6d23dc6f05e "Blue Core Mentor")
+#### Microsoft
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/f9c46594-bb53-4c44-bf8c-1cf9a391c6e6/public_url "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/b475acb8-0f2a-4df6-bbb9-69ed2853792c/public_url "Microsoft Certified: Azure Data Fundamentals")
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/7d8e8f3d-3ee7-451a-8a90-c8618a4f834e/public_url "Microsoft Certified: Azure AI Fundamentals")
+
+#### IBM
+[![Data Science Foundations](https://images.credly.com/size/100x100/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png)](https://www.credly.com/badges/acab1c9e-43ac-4737-9c41-5570ef661944/public_url "Data Science Foundations")
+[![Applied Data Science Specialization](https://images.credly.com/size/100x100/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](https://www.credly.com/badges/e4982012-d442-4298-9a77-155debb1e021/public_url "Applied Data Science Specialization")
+[![Advanced Data Science Specialization](https://images.credly.com/size/100x100/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png)](https://www.credly.com/badges/61fbb669-e2e7-44ae-bc22-32cf1371d7fd/public_url "Advanced Data Science Specialization")
+[![Artificial Intelligence Foundations Specialization](https://images.credly.com/size/100x100/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png)](https://www.credly.com/badges/c674c8c7-0719-402b-bf2e-3fa144f0be39/public_url "Artificial Intelligence Foundations Specialization")
+[![Linux and Private Cloud Administration on IBM Power Systems Specialization](https://images.credly.com/size/100x100/images/aa6b6ee5-07b1-43f7-aad6-87ab946036ce/Linux_and_Private_Cloud_on_IBM_Systems_Specialization.png)](https://www.credly.com/badges/49381862-35d3-4d24-8324-a336fd33989a/public_url "Linux and Private Cloud Administration on IBM Power Systems Specialization")
 <!--END_SECTION:badges-->
 
-
-My GitHub Stats </b>
-
-![Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000)
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib)](https://github.com/mukhamadazistholib/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib)](https://github.com/mukhamadazistholib/github-readme-stats) -->
