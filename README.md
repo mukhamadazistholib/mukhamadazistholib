@@ -42,6 +42,12 @@ Junior Full Stack Engineer
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/b475acb8-0f2a-4df6-bbb9-69ed2853792c/public_url "Microsoft Certified: Azure Data Fundamentals")
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/7d8e8f3d-3ee7-451a-8a90-c8618a4f834e/public_url "Microsoft Certified: Azure AI Fundamentals")
 
+#### Google
+[![Google Sertifikat IT Support](https://images.credly.com/size/120x120/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png)](https://www.credly.com/badges/f59cb494-7c5d-4098-9050-5899be7975d6/public_url "Google Sertifikat IT Support")
+[![Google Sertifikat Analisis Data](https://images.credly.com/size/120x120/images/e25cb39f-b60b-494c-99a3-64a466577282/image.png)](https://www.credly.com/badges/ea4740a1-1515-4211-80ed-fc5b552f3adc/public_url "Google Sertifikat Analisis Data")
+[![Google IT Automation Certificate](https://images.credly.com/size/100x100/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/ea4740a1-1515-4211-80ed-fc5b552f3adc/public_url "Google IT Automation Certificate")
+[![Google Project Management Certificate](https://images.credly.com/size/100x100/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/21d1320c-4ccf-4d20-a8d0-ba7818297ec1/public_url "Google Project Management Certificate")
+
 #### IBM
 [![Data Science Foundations](https://images.credly.com/size/100x100/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png)](https://www.credly.com/badges/acab1c9e-43ac-4737-9c41-5570ef661944/public_url "Data Science Foundations")
 [![Applied Data Science Specialization](https://images.credly.com/size/100x100/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](https://www.credly.com/badges/e4982012-d442-4298-9a77-155debb1e021/public_url "Applied Data Science Specialization")
