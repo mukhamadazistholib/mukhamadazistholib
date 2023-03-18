@@ -67,8 +67,9 @@ Junior Full Stack Engineer
 ![image]({https://github.com/mukhamadazistholib?tab=achievements&achievement=quickdraw})
 
 
-<b>My GitHub Stats</b>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000)
+My GitHub Stats </b>
+
+![Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib)](https://github.com/mukhamadazistholib/github-readme-stats)-->
