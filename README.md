@@ -45,8 +45,9 @@ Junior Full Stack Engineer
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/7d8e8f3d-3ee7-451a-8a90-c8618a4f834e/public_url "Microsoft Certified: Azure AI Fundamentals")
 
 #### Google
-[![Google Sertifikat IT Support](it-support.png)](https://www.credly.com/badges/f59cb494-7c5d-4098-9050-5899be7975d6/public_url "Google Sertifikat IT Support")
-[![Google Sertifikat Analisis Data](data-analis.png)](https://www.credly.com/badges/ea4740a1-1515-4211-80ed-fc5b552f3adc/public_url "Google Sertifikat Analisis Data")
+[![Google Sertifikat IT Support](https://images.credly.com/size/100x100/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/f59cb494-7c5d-4098-9050-5899be7975d6/public_url "Google Sertifikat IT Support")
+[![Google Sertifikat Analisis Data](https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png
+)](https://www.credly.com/badges/ea4740a1-1515-4211-80ed-fc5b552f3adc/public_url "Google Sertifikat Analisis Data")
 [![Google IT Automation Certificate](https://images.credly.com/size/100x100/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/ea4740a1-1515-4211-80ed-fc5b552f3adc/public_url "Google IT Automation Certificate")
 [![Google Project Management Certificate](https://images.credly.com/size/100x100/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/21d1320c-4ccf-4d20-a8d0-ba7818297ec1/public_url "Google Project Management Certificate")
 
