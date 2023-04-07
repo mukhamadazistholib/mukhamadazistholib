@@ -43,6 +43,8 @@ Junior Full Stack Engineer
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/f9c46594-bb53-4c44-bf8c-1cf9a391c6e6/public_url "Microsoft Certified: Azure Fundamentals")
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/b475acb8-0f2a-4df6-bbb9-69ed2853792c/public_url "Microsoft Certified: Azure Data Fundamentals")
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/100x100/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/7d8e8f3d-3ee7-451a-8a90-c8618a4f834e/public_url "Microsoft Certified: Azure AI Fundamentals")
+[![Microsoft Office Specialist: Excel Associate (Office 2019)](https://images.credly.com/size/100x100/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png)](https://www.credly.com/badges/b303c2c2-3040-4931-89b3-be3f86980912/public_url "Microsoft Office Specialist: Excel Associate (Office 2019")
+
 
 #### Google
 [![Google Sertifikat IT Support](https://images.credly.com/size/100x100/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/f59cb494-7c5d-4098-9050-5899be7975d6/public_url "Google Sertifikat IT Support")
