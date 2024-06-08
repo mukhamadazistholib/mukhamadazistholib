@@ -1,7 +1,7 @@
 Hi 👋 My name is Mukhamad Azis Tholib
 =============================
 
-Junior Full Stack Engineer
+Full Stack Engineer
 ------------------------
 
 * 🧠  I'm learning Angular
