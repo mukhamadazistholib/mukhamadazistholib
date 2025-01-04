@@ -22,11 +22,11 @@ Full Stack Engineer
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
-### Github stats
-<!-- ![Github stats ](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&theme=radical) -->
-![Azis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib&layout=compact&bg_color=00000000)](https://github.com/mukhamadazistholib/github-readme-stats)
-
+<details>
+ <summary><b>Github Stats</b></summary>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukhamadazistholib&show_icons=true&bg_color=00000000" alt="mukhamadazistholib" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhamadazistholib&layout=compact&bg_color=00000000" alt="mukhamadazistholib" />
+</details>
 
 <!-- ### Languages and Tools:
 
